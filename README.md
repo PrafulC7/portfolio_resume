@@ -6,7 +6,7 @@ It is fully responsive and built using **React** and **Bootstrap**.
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio](#)  
+👉 [View Portfolio](https://portfolio-resume-navy.vercel.app/)  
 
 ---
 
