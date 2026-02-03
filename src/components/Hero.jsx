@@ -17,7 +17,7 @@ I'm a Web Developer who loves building clean, responsive, and user‑friendly we
 </a>
 </div>
 <div className="col-4 col-lg-3 mb-3">
-  <a href='#contact'>
+  <a href='https://drive.google.com/file/d/1HoFge4pM8j8oDdio3dnCfTNK0QJJJDB0/view?usp=sharing' target='_blank'>
 <div className="border rounded py-2">Resume</div>
 </a>
 </div>
